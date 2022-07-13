@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrsschool=self.webpackChunkrsschool||[]).push([[6012],{6012:function(s,c,e){e.r(c),c.default=e.p+"444d384154becd5c18a59891a3b74751.png"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrsschool=self.webpackChunkrsschool||[]).push([[5775],{5775:function(s,e,c){c.r(e),e.default=c.p+"a6d4fb20897347372e4e7f39c3d776b4.jpg"}}]);
